@@ -19,3 +19,9 @@ Tale funzione restituisce in output true se la pagina del menù è la corrispond
 A questo punto il menù può continuare ed alla fine si mostra il contenuto della variabile contenuto.
 
 <img width="768" alt="2022-09-08 (3)" src="https://user-images.githubusercontent.com/49764967/189151543-80533429-a9fd-43ce-8ff4-6f78fa79bc92.png">
+
+# Donazione
+
+[![paypal](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H4ZHTFRCETWXG)
+
+oppure puoi fare una donazione tramite carta hype.
