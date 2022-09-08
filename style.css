@@ -1,0 +1,73 @@
+body {
+ margin: 0px;
+ padding: 0px;
+}
+
+.menu {
+ color: white;
+ background-color: #343434;
+ float: left;
+ width: 140px;
+ margin: auto;
+ padding: 0px 0px 5px 5px;
+ font-size: 12pt;
+}
+
+.pagina {
+ color: black;
+ background-color: white;
+ float: left;
+ width: 501px;
+ padding: 0px 0px 5px 5px;
+ margin: 0px;
+}
+
+.pagina h3 {
+ margin: 0px 0px 0px 3px;
+}
+
+.pagina h4 {
+ font-size: 12px;
+ text-decoration: underline;
+}
+
+.pagina p {
+ margin: 0px 0px 10px 0px;
+}
+
+.pagina a:link, .pagina a:visited, #dload a:link, #dload a:visited {
+ text-decoration: underline;
+ color: black;
+}
+
+.pagina a:hover, #dload a:hover {
+ text-decoration: none;
+ color: #aa5810
+}
+
+.submenu {
+ font-size: 10pt;
+ margin-left: 5px;
+}
+.submenu a:link, .submenu a:visited, .menu a:link, .menu a:visited {
+ text-decoration: underline;
+ color: white;
+}
+
+.submenu a:hover, .menu a:hover {
+ text-decoration: none;
+ color: #ff9e43;
+}
+
+#dload {
+ width: 317px;
+ font-size: 12px;
+ border: dashed black;
+ padding: 0px 0px 0px 5px;
+ margin: 10px 0px 0px 92px;
+}
+
+#dload h4 {
+ margin: 0px;
+ text-align: center;
+}
