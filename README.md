@@ -1,6 +1,6 @@
 # numCMS
 
-Un piccolo CMS basato su file, bastao su un'idea di Francesca San Severino.
+Un piccolo CMS basato su file, basato su un'idea di Francesca San Severino.
 La prima aplicazione di tale CMS è disponibile sul [sito di numerone](https://numerone.altervista.org)
 
 # Come si utilizza:
