@@ -1,7 +1,7 @@
 # numCMS
 
 Un piccolo CMS basato su file, bastao su un'idea di Francesca San Severino.
-La prima aplicazione di tale CMS è disponibile all'indirizzo [[https://numerone.altervista.org] numerone.altervista.org]
+La prima aplicazione di tale CMS è disponibile all'indirizzo [https://numerone.altervista.org]
 
 # Come si utilizza:
 Per prima cosa bisogna rendere illegibile, tramite htaccess, la cartella include.
